@@ -44,6 +44,8 @@ setopt INC_APPEND_HISTORY    # Update history file after each command
 export VOLTA_HOME="$HOME/.volta"
 export PATH="$VOLTA_HOME/bin:$PATH"
 
+path+=('/home/leyna/.local/bin')
+
 # Enable autocompletion
 autoload -Uz compinit
 compinit
