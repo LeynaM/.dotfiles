@@ -1,0 +1,13 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Kanagawa",
+  "editor.fontFamily": "'FiraCode Nerd Font'",
+  "python.defaultInterpreterPath": "/bin/python",
+  "editor.formatOnSave": true,
+  "ruff.fixAll": true,
+  "[python]": {
+    "editor.defaultFormatter": "charliermarsh.ruff"
+  },
+  "editor.minimap.enabled": false,
+  "workbench.settings.applyToAllProfiles": []
+}
